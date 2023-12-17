@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning SwiftUI.
 - 💞️ I’m looking to collaborate on creating and developing iOS apps as well as creating packages for SwiftUI.
 - 💪 Proud creator of Medi and Done it.
+- ✉️ Contact: badran.alshaikh@aol.com
 
 &nbsp;
 &nbsp;
